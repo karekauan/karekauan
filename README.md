@@ -7,16 +7,12 @@ I also want to pursue a career in the IT field and I'm studying some of the cons
 
 # 🔭 I’m currently working on:
 
----
-
 I'm currently focusing on getting to know the tools in the DevOps area
 so I'm just doing simple projects for functionality testing,
 my last consistent project was a CRUD using a login interface
 and other functions made in PyQt and linked with a Sqlite database.
 
 # 🌱 I’m currently learning:
-
----
 
 After seeing a little about the front and back end area in web programming, having a Restful API as a more solid project,
 I recently started studying about the role and tools of a DevOps.
@@ -29,8 +25,6 @@ cybersecurity that, despite having interested me for a few years, demanded a min
 areas that I came to acquire during high school, allowing me to return to studies now.
 
 # 📫 How to reach me:
-
----
 
 Email: costakauanantonye@gmail.com
 
