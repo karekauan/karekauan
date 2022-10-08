@@ -13,4 +13,4 @@ Estou fazendo estágio como desenvolvedor fullstack numa empresa que oferta site
 
 [Email](mailto:costakauanantonye@gmail.com)
 
-[Linkedin](linkedin.com/in/kauan-costa-143909235)
+([Linkedin](https://www.linkedin.com/in/kauan-costa-143909235/))
