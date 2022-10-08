@@ -8,7 +8,7 @@ Estou fazendo estágio como desenvolvedor fullstack numa empresa que oferta site
 
 # 🌱 Estudando atualmente:
 
-Meu projeto de estudo pessoal é refazer meu tcc feito no ensino médio me html, css e js puros. Decidi usar React como framework pois vou usá-lo também no trabalho, assim que definir um planejamento pro projeto darei início nele.
+Meu projeto de estudo pessoal é refazer meu tcc feito no ensino médio em html, css e js puros. Decidi usar React como framework pois vou usá-lo também no trabalho, assim que definir um planejamento pro projeto darei início nele.
 
 
 # 📫 Contatos:
