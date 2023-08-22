@@ -4,7 +4,7 @@ Meu nome é Kauan Antonyê Costa, tenho 19 anos, concluí o  ensino médio integ
 
 # 🔭 Trabalhando atualmente:
 
-Desenvolvendo um chatbot usando React e Ruby, integrado a GraphAPI do Facebook.
+
 
 # 🌱 Estudando atualmente:
 
