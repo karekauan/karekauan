@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é Kauan Antonyê Costa, tenho 19 anos, concluí o  ensino médio integrado com Técnico em Informática no IFPR Cascavel , onde estou cursando o 2° ano de TADS. Gosto de desenvolvimento web, e tenho interesse na área de segurança também. 
+Meu nome é Kauan Antonyê Costa, tenho 20 anos, concluí o  ensino médio integrado com Técnico em Informática no IFPR Cascavel , onde estou cursando o 3° ano de TADS. Gosto de desenvolvimento web, e tenho interesse na área de segurança também. 
 
 # 🔭 Trabalhando atualmente:
 
